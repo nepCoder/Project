@@ -1,0 +1,11 @@
+/Users/bimalabhattarai/Desktop/dotnet Project/Bulky/Bulky.Models/bin/Debug/net7.0/Bulky.Models.deps.json
+/Users/bimalabhattarai/Desktop/dotnet Project/Bulky/Bulky.Models/bin/Debug/net7.0/Bulky.Models.dll
+/Users/bimalabhattarai/Desktop/dotnet Project/Bulky/Bulky.Models/bin/Debug/net7.0/Bulky.Models.pdb
+/Users/bimalabhattarai/Desktop/dotnet Project/Bulky/Bulky.Models/obj/Debug/net7.0/Bulky.Models.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bimalabhattarai/Desktop/dotnet Project/Bulky/Bulky.Models/obj/Debug/net7.0/Bulky.Models.AssemblyInfoInputs.cache
+/Users/bimalabhattarai/Desktop/dotnet Project/Bulky/Bulky.Models/obj/Debug/net7.0/Bulky.Models.AssemblyInfo.cs
+/Users/bimalabhattarai/Desktop/dotnet Project/Bulky/Bulky.Models/obj/Debug/net7.0/Bulky.Models.csproj.CoreCompileInputs.cache
+/Users/bimalabhattarai/Desktop/dotnet Project/Bulky/Bulky.Models/obj/Debug/net7.0/Bulky.Models.dll
+/Users/bimalabhattarai/Desktop/dotnet Project/Bulky/Bulky.Models/obj/Debug/net7.0/refint/Bulky.Models.dll
+/Users/bimalabhattarai/Desktop/dotnet Project/Bulky/Bulky.Models/obj/Debug/net7.0/Bulky.Models.pdb
+/Users/bimalabhattarai/Desktop/dotnet Project/Bulky/Bulky.Models/obj/Debug/net7.0/ref/Bulky.Models.dll
