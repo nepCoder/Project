@@ -17,6 +17,14 @@
       "PackagePath": "staticwebassets/favicon.ico"
     },
     {
+      "Id": "/Users/bimalabhattarai/Desktop/dotnet Project/Bulky/BulkyWeb/wwwroot/images/product/4770a199-7d61-4d28-a4cf-7f10cdf15196.jpg",
+      "PackagePath": "staticwebassets/images/product/4770a199-7d61-4d28-a4cf-7f10cdf15196.jpg"
+    },
+    {
+      "Id": "/Users/bimalabhattarai/Desktop/dotnet Project/Bulky/BulkyWeb/wwwroot/images/product/7f746d1b-0ca6-403f-95f4-92f704329107.jpeg",
+      "PackagePath": "staticwebassets/images/product/7f746d1b-0ca6-403f-95f4-92f704329107.jpeg"
+    },
+    {
       "Id": "/Users/bimalabhattarai/Desktop/dotnet Project/Bulky/BulkyWeb/wwwroot/js/site.js",
       "PackagePath": "staticwebassets/js/site.js"
     },

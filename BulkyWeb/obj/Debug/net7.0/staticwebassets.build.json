@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "QvT05QyWu9z+ZbgITMbKrAsdFyeAxMm/b0AVKyg3IQc=",
+  "Hash": "trvrjb/vK8ZIrpcQ16NR2xMwG5iAgiIZLhY0882OU58=",
   "Source": "BulkyWeb",
   "BasePath": "_content/BulkyWeb",
   "Mode": "Default",
@@ -100,6 +100,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/favicon.ico"
+    },
+    {
+      "Identity": "/Users/bimalabhattarai/Desktop/dotnet Project/Bulky/BulkyWeb/wwwroot/images/product/4770a199-7d61-4d28-a4cf-7f10cdf15196.jpg",
+      "SourceId": "BulkyWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/bimalabhattarai/Desktop/dotnet Project/Bulky/BulkyWeb/wwwroot/",
+      "BasePath": "_content/BulkyWeb",
+      "RelativePath": "images/product/4770a199-7d61-4d28-a4cf-7f10cdf15196.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/product/4770a199-7d61-4d28-a4cf-7f10cdf15196.jpg"
+    },
+    {
+      "Identity": "/Users/bimalabhattarai/Desktop/dotnet Project/Bulky/BulkyWeb/wwwroot/images/product/7f746d1b-0ca6-403f-95f4-92f704329107.jpeg",
+      "SourceId": "BulkyWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/bimalabhattarai/Desktop/dotnet Project/Bulky/BulkyWeb/wwwroot/",
+      "BasePath": "_content/BulkyWeb",
+      "RelativePath": "images/product/7f746d1b-0ca6-403f-95f4-92f704329107.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/product/7f746d1b-0ca6-403f-95f4-92f704329107.jpeg"
     },
     {
       "Identity": "/Users/bimalabhattarai/Desktop/dotnet Project/Bulky/BulkyWeb/wwwroot/js/site.js",

@@ -9,3 +9,6 @@
 /Users/bimalabhattarai/Desktop/dotnet Project/Bulky/Bulky.Models/obj/Debug/net7.0/refint/Bulky.Models.dll
 /Users/bimalabhattarai/Desktop/dotnet Project/Bulky/Bulky.Models/obj/Debug/net7.0/Bulky.Models.pdb
 /Users/bimalabhattarai/Desktop/dotnet Project/Bulky/Bulky.Models/obj/Debug/net7.0/ref/Bulky.Models.dll
+/Users/bimalabhattarai/Desktop/dotnet Project/Bulky/Bulky.Models/obj/Debug/net7.0/Bulky.Models.csproj.AssemblyReference.cache
+/Users/bimalabhattarai/Desktop/dotnet Project/Bulky/Bulky.Models/bin/Debug/net7.0/Bulky.Models.runtimeconfig.json
+/Users/bimalabhattarai/Desktop/dotnet Project/Bulky/Bulky.Models/obj/Debug/net7.0/Bulky.Models.genruntimeconfig.cache

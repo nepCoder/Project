@@ -1,30 +1,59 @@
 ﻿<Properties NuGet.AddPackagesDialog.IncludePrerelease="True" StartupConfiguration="{F713025A-91E5-4948-9A2D-AD3D8110CA33}|https">
+  <MonoDevelop.Ide.ItemProperties.Bulky.Utility FirstBuild="True" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.BulkyWeb PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/bimalabhattarai/Desktop/dotnet Project/Bulky/BulkyWeb/Areas/Admin/Controllers/ProductController.cs" relfile="BulkyWeb/Areas/Admin/Controllers/ProductController.cs" line="32" column="1" />
+      <Breakpoint file="/Users/bimalabhattarai/Desktop/dotnet Project/Bulky/BulkyWeb/Areas/Admin/Controllers/ProductController.cs" relfile="BulkyWeb/Areas/Admin/Controllers/ProductController.cs" line="33" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.ItemProperties.Bulky.Utility FirstBuild="True" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Bulky.DataAccess/Data/ApplicationDbContext.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Bulky.DataAccess/Repository/Repository.cs">
     <Files>
-      <File FileName="Bulky.DataAccess/Data/ApplicationDbContext.cs" Line="10" Column="9" />
+      <File FileName="BulkyWeb/Areas/Admin/Views/Product/Delete.cshtml" />
+      <File FileName="BulkyWeb/Areas/Admin/Views/Product/Edit.cshtml" />
+      <File FileName="BulkyWeb/Areas/Admin/Views/Product/Index.cshtml" Line="33" Column="1" />
+      <File FileName="BulkyWeb/Areas/Admin/Controllers/ProductController.cs" Line="33" Column="42" />
+      <File FileName="BulkyWeb/Areas/Admin/Controllers/CategoryController.cs" />
+      <File FileName="BulkyWeb/Views/Shared/_Layout.cshtml" />
+      <File FileName="BulkyWeb/Areas/Admin/Views/_ViewImports.cshtml" />
+      <File FileName="BulkyWeb/Areas/Admin/Views/_ViewStart.cshtml" />
+      <File FileName="BulkyWeb/ScaffoldingReadMe.txt" />
+      <File FileName="BulkyWeb/Program.cs" />
+      <File FileName="BulkyWeb/appsettings.json" />
+      <File FileName="Bulky.DataAccess/Repository/IRepository/IProductRepository.cs" />
+      <File FileName="Bulky.DataAccess/Repository/IRepository/ICategoryRepository.cs" />
+      <File FileName="Bulky.DataAccess/Repository/IRepository/IRepository.cs" Line="17" Column="1" />
+      <File FileName="Bulky.DataAccess/Repository/IRepository/IUnitOfWork.cs" />
+      <File FileName="Bulky.DataAccess/Repository/UnitOfWork.cs" />
+      <File FileName="Bulky.DataAccess/Repository/Repository.cs" Line="52" Column="1" />
+      <File FileName="Bulky.DataAccess/Repository/ProductRepository.cs" Line="33" Column="54" />
+      <File FileName="Bulky.DataAccess/Repository/CategoryRepository.cs" />
+      <File FileName="Bulky.Models/Product.cs" Line="40" Column="38" />
+      <File FileName="Bulky.DataAccess/Data/ApplicationDbContext.cs" />
+      <File FileName="Bulky.Models/Category.cs" />
+      <File FileName="Bulky.Models/ViewModels/ProductVM.cs" />
+      <File FileName="BulkyWeb/Areas/Customer/Views/_ViewImports.cshtml" />
+      <File FileName="BulkyWeb/Views/_ViewImports.cshtml" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Bulky" expanded="True">
             <Node name="Bulky.DataAccess">
-              <Node name="Data" expanded="True">
-                <Node name="ApplicationDbContext.cs" selected="True" />
+              <Node name="Data" expanded="True" />
+              <Node name="Repository" expanded="True">
+                <Node name="IRepository" expanded="True" />
+                <Node name="Repository.cs" selected="True" />
               </Node>
-              <Node name="Repository" expanded="True" />
             </Node>
             <Node name="Bulky.Models" expanded="True" />
             <Node name="BulkyWeb">
-              <Node name="Views" expanded="True">
-                <Node name="Shared" expanded="True">
-                  <Node name="_Layout.cshtml" expanded="True" />
+              <Node name="Areas" expanded="True">
+                <Node name="Admin" expanded="True">
+                  <Node name="Controllers" expanded="True" />
                 </Node>
               </Node>
             </Node>
@@ -33,5 +62,4 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.BulkyWeb PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
 </Properties>

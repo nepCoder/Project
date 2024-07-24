@@ -62,7 +62,6 @@
 /Users/bimalabhattarai/Desktop/dotnet Project/Bulky/BulkyWeb/obj/Debug/net7.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
 /Users/bimalabhattarai/Desktop/dotnet Project/Bulky/BulkyWeb/obj/Debug/net7.0/scopedcss/bundle/BulkyWeb.styles.css
 /Users/bimalabhattarai/Desktop/dotnet Project/Bulky/BulkyWeb/obj/Debug/net7.0/scopedcss/projectbundle/BulkyWeb.bundle.scp.css
-/Users/bimalabhattarai/Desktop/dotnet Project/Bulky/BulkyWeb/obj/Debug/net7.0/BulkyWeb.csproj.CopyComplete
 /Users/bimalabhattarai/Desktop/dotnet Project/Bulky/BulkyWeb/obj/Debug/net7.0/BulkyWeb.dll
 /Users/bimalabhattarai/Desktop/dotnet Project/Bulky/BulkyWeb/obj/Debug/net7.0/refint/BulkyWeb.dll
 /Users/bimalabhattarai/Desktop/dotnet Project/Bulky/BulkyWeb/obj/Debug/net7.0/BulkyWeb.pdb
@@ -279,3 +278,7 @@
 /Users/bimalabhattarai/Desktop/dotnet Project/Bulky/BulkyWeb/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
 /Users/bimalabhattarai/Desktop/dotnet Project/Bulky/BulkyWeb/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
 /Users/bimalabhattarai/Desktop/dotnet Project/Bulky/BulkyWeb/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/Users/bimalabhattarai/Desktop/dotnet Project/Bulky/BulkyWeb/bin/Debug/net7.0/Microsoft.AspNetCore.JsonPatch.dll
+/Users/bimalabhattarai/Desktop/dotnet Project/Bulky/BulkyWeb/bin/Debug/net7.0/Newtonsoft.Json.Bson.dll
+/Users/bimalabhattarai/Desktop/dotnet Project/Bulky/BulkyWeb/obj/Debug/net7.0/BulkyWeb.MvcApplicationPartsAssemblyInfo.cs
+/Users/bimalabhattarai/Desktop/dotnet Project/Bulky/BulkyWeb/obj/Debug/net7.0/BulkyWeb.csproj.CopyComplete
