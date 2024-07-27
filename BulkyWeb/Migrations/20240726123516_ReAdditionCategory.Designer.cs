@@ -8,11 +8,11 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 #nullable disable
 
-namespace Bulky.DataAccess.Migrations
+namespace BulkyWeb.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20240709123511_AddedProductData")]
-    partial class AddedProductData
+    [Migration("20240726123516_ReAdditionCategory")]
+    partial class ReAdditionCategory
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -26,11 +26,11 @@ namespace Bulky.DataAccess.Migrations
 
             modelBuilder.Entity("Bulky.Models.Category", b =>
                 {
-                    b.Property<int>("ID")
+                    b.Property<int>("CategoryID")
                         .ValueGeneratedOnAdd()
                         .HasColumnType("int");
 
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("ID"));
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("CategoryID"));
 
                     b.Property<int>("DisplayOrder")
                         .HasColumnType("int");
@@ -40,26 +40,26 @@ namespace Bulky.DataAccess.Migrations
                         .HasMaxLength(100)
                         .HasColumnType("nvarchar(100)");
 
-                    b.HasKey("ID");
+                    b.HasKey("CategoryID");
 
                     b.ToTable("Categories");
 
                     b.HasData(
                         new
                         {
-                            ID = 1,
+                            CategoryID = 1,
                             DisplayOrder = 1,
                             Name = "Action"
                         },
                         new
                         {
-                            ID = 2,
+                            CategoryID = 2,
                             DisplayOrder = 2,
                             Name = "SciFi"
                         },
                         new
                         {
-                            ID = 3,
+                            CategoryID = 3,
                             DisplayOrder = 3,
                             Name = "History"
                         });
@@ -77,11 +77,18 @@ namespace Bulky.DataAccess.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
+                    b.Property<int>("CategoryID")
+                        .HasColumnType("int");
+
                     b.Property<string>("Description")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("ISBN")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("ImageUrl")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
@@ -103,45 +110,64 @@ namespace Bulky.DataAccess.Migrations
 
                     b.HasKey("PId");
 
+                    b.HasIndex("CategoryID");
+
                     b.ToTable("Products2");
 
                     b.HasData(
                         new
                         {
                             PId = 1,
-                            Author = "John Doe",
-                            Description = "Action related",
+                            Author = "Harper Lee",
+                            CategoryID = 2,
+                            Description = " A novel about the serious issues of rape and racial inequality",
                             ISBN = "SJFK46546F",
+                            ImageUrl = "",
                             ListPrice = 99.0,
                             Price = 95.0,
                             Price100 = 85.0,
                             Price50 = 90.0,
-                            Title = "Ranger"
+                            Title = "To Kill a Mockingbird"
                         },
                         new
                         {
                             PId = 2,
-                            Author = "Roman Reigns",
-                            Description = "Thriller",
+                            Author = "RJane Austen",
+                            CategoryID = 3,
+                            Description = "A romantic novel",
                             ISBN = "SJFK46546F",
-                            ListPrice = 99.0,
-                            Price = 95.0,
-                            Price100 = 85.0,
-                            Price50 = 90.0,
-                            Title = "Book of Gangster"
+                            ImageUrl = "",
+                            ListPrice = 90.0,
+                            Price = 85.0,
+                            Price100 = 75.0,
+                            Price50 = 80.0,
+                            Title = "Pride and Prejudice"
                         },
                         new
                         {
                             PId = 3,
-                            Author = "John Cena",
-                            Description = "Fortune of your",
-                            ISBN = "SJFK46546F",
-                            ListPrice = 99.0,
-                            Price = 95.0,
-                            Price100 = 85.0,
-                            Price50 = 90.0,
-                            Title = "Book of Fortune"
+                            Author = "Suzanne Collins",
+                            CategoryID = 1,
+                            Description = "teenagers are selected to compete in a televised death match",
+                            ISBN = "SJHBFHJN567",
+                            ImageUrl = "",
+                            ListPrice = 70.0,
+                            Price = 65.0,
+                            Price100 = 56.0,
+                            Price50 = 60.0,
+                            Title = "The Hunger Games"
                         });
+                });
+
+            modelBuilder.Entity("Bulky.Models.Product", b =>
+                {
+                    b.HasOne("Bulky.Models.Category", "Category")
+                        .WithMany()
+                        .HasForeignKey("CategoryID")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Category");
                 });
 #pragma warning restore 612, 618
         }

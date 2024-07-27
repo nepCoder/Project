@@ -12,3 +12,4 @@
 /Users/bimalabhattarai/Desktop/dotnet Project/Bulky/Bulky.Models/obj/Debug/net7.0/Bulky.Models.csproj.AssemblyReference.cache
 /Users/bimalabhattarai/Desktop/dotnet Project/Bulky/Bulky.Models/bin/Debug/net7.0/Bulky.Models.runtimeconfig.json
 /Users/bimalabhattarai/Desktop/dotnet Project/Bulky/Bulky.Models/obj/Debug/net7.0/Bulky.Models.genruntimeconfig.cache
+/Users/bimalabhattarai/Desktop/dotnet Project/Bulky/Bulky.Models/obj/Debug/net7.0/Bulky.Models.sourcelink.json

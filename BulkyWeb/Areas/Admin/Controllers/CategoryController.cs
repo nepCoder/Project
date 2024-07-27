@@ -52,7 +52,7 @@ namespace BulkyWeb.Controllers
 
                     return NotFound();
                     }
-            Category? objCategory = _unitofWork.Category.Get(u=>u.ID==id);
+            Category? objCategory = _unitofWork.Category.Get(u=>u.CategoryID==id);
             //Category? objCategory1 = _db.Categories.FirstOrDefault(u=>u.ID==id);
             //Category? objCategory2 = _db.Categories.Where(u=>u.ID==id).FirstOrDefault();
 
@@ -84,7 +84,7 @@ namespace BulkyWeb.Controllers
 
                 return NotFound();
             }
-            Category? objCategory = _unitofWork.Category.Get(u => u.ID == id);
+            Category? objCategory = _unitofWork.Category.Get(u => u.CategoryID == id);
 
             if (objCategory == null)
             {
@@ -97,7 +97,7 @@ namespace BulkyWeb.Controllers
         [HttpPost, ActionName("Delete")]
         public IActionResult DeletePost(int? id)
         {
-            Category? obj = _unitofWork.Category.Get(u => u.ID == id);
+            Category? obj = _unitofWork.Category.Get(u => u.CategoryID == id);
 
             if (obj == null)
             {

@@ -17,12 +17,40 @@
       "PackagePath": "staticwebassets/favicon.ico"
     },
     {
+      "Id": "/Users/bimalabhattarai/Desktop/dotnet Project/Bulky/BulkyWeb/wwwroot/images/product/2cd79bdc-a323-4176-8279-d6b9e3c477cb.png",
+      "PackagePath": "staticwebassets/images/product/2cd79bdc-a323-4176-8279-d6b9e3c477cb.png"
+    },
+    {
       "Id": "/Users/bimalabhattarai/Desktop/dotnet Project/Bulky/BulkyWeb/wwwroot/images/product/4770a199-7d61-4d28-a4cf-7f10cdf15196.jpg",
       "PackagePath": "staticwebassets/images/product/4770a199-7d61-4d28-a4cf-7f10cdf15196.jpg"
     },
     {
+      "Id": "/Users/bimalabhattarai/Desktop/dotnet Project/Bulky/BulkyWeb/wwwroot/images/product/7bd714a4-04f9-4022-9b96-305ef7ea61e3.jpeg",
+      "PackagePath": "staticwebassets/images/product/7bd714a4-04f9-4022-9b96-305ef7ea61e3.jpeg"
+    },
+    {
       "Id": "/Users/bimalabhattarai/Desktop/dotnet Project/Bulky/BulkyWeb/wwwroot/images/product/7f746d1b-0ca6-403f-95f4-92f704329107.jpeg",
       "PackagePath": "staticwebassets/images/product/7f746d1b-0ca6-403f-95f4-92f704329107.jpeg"
+    },
+    {
+      "Id": "/Users/bimalabhattarai/Desktop/dotnet Project/Bulky/BulkyWeb/wwwroot/images/product/9c0ac45f-8ec1-4a6f-b0fb-bbc504403fcd.jpg",
+      "PackagePath": "staticwebassets/images/product/9c0ac45f-8ec1-4a6f-b0fb-bbc504403fcd.jpg"
+    },
+    {
+      "Id": "/Users/bimalabhattarai/Desktop/dotnet Project/Bulky/BulkyWeb/wwwroot/images/product/b023e0e5-7e5e-4717-9b2b-e75114dc4547.jpg",
+      "PackagePath": "staticwebassets/images/product/b023e0e5-7e5e-4717-9b2b-e75114dc4547.jpg"
+    },
+    {
+      "Id": "/Users/bimalabhattarai/Desktop/dotnet Project/Bulky/BulkyWeb/wwwroot/images/product/d76c4773-c07d-45c7-8df7-d885371a0177.webp",
+      "PackagePath": "staticwebassets/images/product/d76c4773-c07d-45c7-8df7-d885371a0177.webp"
+    },
+    {
+      "Id": "/Users/bimalabhattarai/Desktop/dotnet Project/Bulky/BulkyWeb/wwwroot/images/product/de9b6dfd-6957-4485-a6a5-2eafd319f98c.jpg",
+      "PackagePath": "staticwebassets/images/product/de9b6dfd-6957-4485-a6a5-2eafd319f98c.jpg"
+    },
+    {
+      "Id": "/Users/bimalabhattarai/Desktop/dotnet Project/Bulky/BulkyWeb/wwwroot/js/product.js",
+      "PackagePath": "staticwebassets/js/product.js"
     },
     {
       "Id": "/Users/bimalabhattarai/Desktop/dotnet Project/Bulky/BulkyWeb/wwwroot/js/site.js",
