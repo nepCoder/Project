@@ -1,311 +1,299 @@
 {
   "Files": [
     {
-      "Id": "/Users/bimalabhattarai/Desktop/dotnet Project/Bulky/BulkyWeb/obj/Debug/net7.0/scopedcss/projectbundle/BulkyWeb.bundle.scp.css",
-      "PackagePath": "staticwebassets/BulkyWeb.bundle.scp.css"
+      "Id": "D:\\MyProjects\\nepcoder\\Project\\BulkyWeb\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\BulkyWeb.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BulkyWeb.bundle.scp.css"
     },
     {
-      "Id": "/Users/bimalabhattarai/Desktop/dotnet Project/Bulky/BulkyWeb/wwwroot/.DS_Store",
-      "PackagePath": "staticwebassets/.DS_Store"
+      "Id": "D:\\MyProjects\\nepcoder\\Project\\BulkyWeb\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "/Users/bimalabhattarai/Desktop/dotnet Project/Bulky/BulkyWeb/wwwroot/css/site.css",
-      "PackagePath": "staticwebassets/css/site.css"
+      "Id": "D:\\MyProjects\\nepcoder\\Project\\BulkyWeb\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "/Users/bimalabhattarai/Desktop/dotnet Project/Bulky/BulkyWeb/wwwroot/favicon.ico",
-      "PackagePath": "staticwebassets/favicon.ico"
+      "Id": "D:\\MyProjects\\nepcoder\\Project\\BulkyWeb\\wwwroot\\images\\product\\2cd79bdc-a323-4176-8279-d6b9e3c477cb.png",
+      "PackagePath": "staticwebassets\\images\\product\\2cd79bdc-a323-4176-8279-d6b9e3c477cb.png"
     },
     {
-      "Id": "/Users/bimalabhattarai/Desktop/dotnet Project/Bulky/BulkyWeb/wwwroot/images/product/2cd79bdc-a323-4176-8279-d6b9e3c477cb.png",
-      "PackagePath": "staticwebassets/images/product/2cd79bdc-a323-4176-8279-d6b9e3c477cb.png"
+      "Id": "D:\\MyProjects\\nepcoder\\Project\\BulkyWeb\\wwwroot\\images\\product\\4770a199-7d61-4d28-a4cf-7f10cdf15196.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\4770a199-7d61-4d28-a4cf-7f10cdf15196.jpg"
     },
     {
-      "Id": "/Users/bimalabhattarai/Desktop/dotnet Project/Bulky/BulkyWeb/wwwroot/images/product/4770a199-7d61-4d28-a4cf-7f10cdf15196.jpg",
-      "PackagePath": "staticwebassets/images/product/4770a199-7d61-4d28-a4cf-7f10cdf15196.jpg"
+      "Id": "D:\\MyProjects\\nepcoder\\Project\\BulkyWeb\\wwwroot\\images\\product\\7bd714a4-04f9-4022-9b96-305ef7ea61e3.jpeg",
+      "PackagePath": "staticwebassets\\images\\product\\7bd714a4-04f9-4022-9b96-305ef7ea61e3.jpeg"
     },
     {
-      "Id": "/Users/bimalabhattarai/Desktop/dotnet Project/Bulky/BulkyWeb/wwwroot/images/product/7bd714a4-04f9-4022-9b96-305ef7ea61e3.jpeg",
-      "PackagePath": "staticwebassets/images/product/7bd714a4-04f9-4022-9b96-305ef7ea61e3.jpeg"
+      "Id": "D:\\MyProjects\\nepcoder\\Project\\BulkyWeb\\wwwroot\\images\\product\\7f746d1b-0ca6-403f-95f4-92f704329107.jpeg",
+      "PackagePath": "staticwebassets\\images\\product\\7f746d1b-0ca6-403f-95f4-92f704329107.jpeg"
     },
     {
-      "Id": "/Users/bimalabhattarai/Desktop/dotnet Project/Bulky/BulkyWeb/wwwroot/images/product/7f746d1b-0ca6-403f-95f4-92f704329107.jpeg",
-      "PackagePath": "staticwebassets/images/product/7f746d1b-0ca6-403f-95f4-92f704329107.jpeg"
+      "Id": "D:\\MyProjects\\nepcoder\\Project\\BulkyWeb\\wwwroot\\images\\product\\9c0ac45f-8ec1-4a6f-b0fb-bbc504403fcd.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\9c0ac45f-8ec1-4a6f-b0fb-bbc504403fcd.jpg"
     },
     {
-      "Id": "/Users/bimalabhattarai/Desktop/dotnet Project/Bulky/BulkyWeb/wwwroot/images/product/9c0ac45f-8ec1-4a6f-b0fb-bbc504403fcd.jpg",
-      "PackagePath": "staticwebassets/images/product/9c0ac45f-8ec1-4a6f-b0fb-bbc504403fcd.jpg"
+      "Id": "D:\\MyProjects\\nepcoder\\Project\\BulkyWeb\\wwwroot\\images\\product\\b023e0e5-7e5e-4717-9b2b-e75114dc4547.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\b023e0e5-7e5e-4717-9b2b-e75114dc4547.jpg"
     },
     {
-      "Id": "/Users/bimalabhattarai/Desktop/dotnet Project/Bulky/BulkyWeb/wwwroot/images/product/b023e0e5-7e5e-4717-9b2b-e75114dc4547.jpg",
-      "PackagePath": "staticwebassets/images/product/b023e0e5-7e5e-4717-9b2b-e75114dc4547.jpg"
+      "Id": "D:\\MyProjects\\nepcoder\\Project\\BulkyWeb\\wwwroot\\images\\product\\d76c4773-c07d-45c7-8df7-d885371a0177.webp",
+      "PackagePath": "staticwebassets\\images\\product\\d76c4773-c07d-45c7-8df7-d885371a0177.webp"
     },
     {
-      "Id": "/Users/bimalabhattarai/Desktop/dotnet Project/Bulky/BulkyWeb/wwwroot/images/product/d76c4773-c07d-45c7-8df7-d885371a0177.webp",
-      "PackagePath": "staticwebassets/images/product/d76c4773-c07d-45c7-8df7-d885371a0177.webp"
+      "Id": "D:\\MyProjects\\nepcoder\\Project\\BulkyWeb\\wwwroot\\images\\product\\de9b6dfd-6957-4485-a6a5-2eafd319f98c.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\de9b6dfd-6957-4485-a6a5-2eafd319f98c.jpg"
     },
     {
-      "Id": "/Users/bimalabhattarai/Desktop/dotnet Project/Bulky/BulkyWeb/wwwroot/images/product/de9b6dfd-6957-4485-a6a5-2eafd319f98c.jpg",
-      "PackagePath": "staticwebassets/images/product/de9b6dfd-6957-4485-a6a5-2eafd319f98c.jpg"
+      "Id": "D:\\MyProjects\\nepcoder\\Project\\BulkyWeb\\wwwroot\\js\\product.js",
+      "PackagePath": "staticwebassets\\js\\product.js"
     },
     {
-      "Id": "/Users/bimalabhattarai/Desktop/dotnet Project/Bulky/BulkyWeb/wwwroot/js/product.js",
-      "PackagePath": "staticwebassets/js/product.js"
+      "Id": "D:\\MyProjects\\nepcoder\\Project\\BulkyWeb\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "/Users/bimalabhattarai/Desktop/dotnet Project/Bulky/BulkyWeb/wwwroot/js/site.js",
-      "PackagePath": "staticwebassets/js/site.js"
+      "Id": "D:\\MyProjects\\nepcoder\\Project\\BulkyWeb\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "/Users/bimalabhattarai/Desktop/dotnet Project/Bulky/BulkyWeb/wwwroot/lib/.DS_Store",
-      "PackagePath": "staticwebassets/lib/.DS_Store"
+      "Id": "D:\\MyProjects\\nepcoder\\Project\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "/Users/bimalabhattarai/Desktop/dotnet Project/Bulky/BulkyWeb/wwwroot/lib/bootstrap/LICENSE",
-      "PackagePath": "staticwebassets/lib/bootstrap"
+      "Id": "D:\\MyProjects\\nepcoder\\Project\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "/Users/bimalabhattarai/Desktop/dotnet Project/Bulky/BulkyWeb/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css"
+      "Id": "D:\\MyProjects\\nepcoder\\Project\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "/Users/bimalabhattarai/Desktop/dotnet Project/Bulky/BulkyWeb/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css.map"
+      "Id": "D:\\MyProjects\\nepcoder\\Project\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "/Users/bimalabhattarai/Desktop/dotnet Project/Bulky/BulkyWeb/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css"
+      "Id": "D:\\MyProjects\\nepcoder\\Project\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "/Users/bimalabhattarai/Desktop/dotnet Project/Bulky/BulkyWeb/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
+      "Id": "D:\\MyProjects\\nepcoder\\Project\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "/Users/bimalabhattarai/Desktop/dotnet Project/Bulky/BulkyWeb/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
+      "Id": "D:\\MyProjects\\nepcoder\\Project\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "/Users/bimalabhattarai/Desktop/dotnet Project/Bulky/BulkyWeb/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
+      "Id": "D:\\MyProjects\\nepcoder\\Project\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "/Users/bimalabhattarai/Desktop/dotnet Project/Bulky/BulkyWeb/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
+      "Id": "D:\\MyProjects\\nepcoder\\Project\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "/Users/bimalabhattarai/Desktop/dotnet Project/Bulky/BulkyWeb/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
+      "Id": "D:\\MyProjects\\nepcoder\\Project\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "/Users/bimalabhattarai/Desktop/dotnet Project/Bulky/BulkyWeb/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css"
+      "Id": "D:\\MyProjects\\nepcoder\\Project\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "/Users/bimalabhattarai/Desktop/dotnet Project/Bulky/BulkyWeb/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
+      "Id": "D:\\MyProjects\\nepcoder\\Project\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "/Users/bimalabhattarai/Desktop/dotnet Project/Bulky/BulkyWeb/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
+      "Id": "D:\\MyProjects\\nepcoder\\Project\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "/Users/bimalabhattarai/Desktop/dotnet Project/Bulky/BulkyWeb/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
+      "Id": "D:\\MyProjects\\nepcoder\\Project\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "/Users/bimalabhattarai/Desktop/dotnet Project/Bulky/BulkyWeb/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
+      "Id": "D:\\MyProjects\\nepcoder\\Project\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "/Users/bimalabhattarai/Desktop/dotnet Project/Bulky/BulkyWeb/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
+      "Id": "D:\\MyProjects\\nepcoder\\Project\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "/Users/bimalabhattarai/Desktop/dotnet Project/Bulky/BulkyWeb/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
+      "Id": "D:\\MyProjects\\nepcoder\\Project\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "/Users/bimalabhattarai/Desktop/dotnet Project/Bulky/BulkyWeb/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
+      "Id": "D:\\MyProjects\\nepcoder\\Project\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "/Users/bimalabhattarai/Desktop/dotnet Project/Bulky/BulkyWeb/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css"
+      "Id": "D:\\MyProjects\\nepcoder\\Project\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "/Users/bimalabhattarai/Desktop/dotnet Project/Bulky/BulkyWeb/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
+      "Id": "D:\\MyProjects\\nepcoder\\Project\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "/Users/bimalabhattarai/Desktop/dotnet Project/Bulky/BulkyWeb/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
+      "Id": "D:\\MyProjects\\nepcoder\\Project\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "/Users/bimalabhattarai/Desktop/dotnet Project/Bulky/BulkyWeb/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
+      "Id": "D:\\MyProjects\\nepcoder\\Project\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "/Users/bimalabhattarai/Desktop/dotnet Project/Bulky/BulkyWeb/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
+      "Id": "D:\\MyProjects\\nepcoder\\Project\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "/Users/bimalabhattarai/Desktop/dotnet Project/Bulky/BulkyWeb/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
+      "Id": "D:\\MyProjects\\nepcoder\\Project\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "/Users/bimalabhattarai/Desktop/dotnet Project/Bulky/BulkyWeb/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
+      "Id": "D:\\MyProjects\\nepcoder\\Project\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "/Users/bimalabhattarai/Desktop/dotnet Project/Bulky/BulkyWeb/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
+      "Id": "D:\\MyProjects\\nepcoder\\Project\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "/Users/bimalabhattarai/Desktop/dotnet Project/Bulky/BulkyWeb/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css"
+      "Id": "D:\\MyProjects\\nepcoder\\Project\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "/Users/bimalabhattarai/Desktop/dotnet Project/Bulky/BulkyWeb/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css.map"
+      "Id": "D:\\MyProjects\\nepcoder\\Project\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "/Users/bimalabhattarai/Desktop/dotnet Project/Bulky/BulkyWeb/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css"
+      "Id": "D:\\MyProjects\\nepcoder\\Project\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "/Users/bimalabhattarai/Desktop/dotnet Project/Bulky/BulkyWeb/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css.map"
+      "Id": "D:\\MyProjects\\nepcoder\\Project\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "/Users/bimalabhattarai/Desktop/dotnet Project/Bulky/BulkyWeb/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css"
+      "Id": "D:\\MyProjects\\nepcoder\\Project\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "/Users/bimalabhattarai/Desktop/dotnet Project/Bulky/BulkyWeb/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
+      "Id": "D:\\MyProjects\\nepcoder\\Project\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "/Users/bimalabhattarai/Desktop/dotnet Project/Bulky/BulkyWeb/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
+      "Id": "D:\\MyProjects\\nepcoder\\Project\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "/Users/bimalabhattarai/Desktop/dotnet Project/Bulky/BulkyWeb/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
+      "Id": "D:\\MyProjects\\nepcoder\\Project\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "/Users/bimalabhattarai/Desktop/dotnet Project/Bulky/BulkyWeb/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js"
+      "Id": "D:\\MyProjects\\nepcoder\\Project\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "/Users/bimalabhattarai/Desktop/dotnet Project/Bulky/BulkyWeb/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
+      "Id": "D:\\MyProjects\\nepcoder\\Project\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "/Users/bimalabhattarai/Desktop/dotnet Project/Bulky/BulkyWeb/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
+      "Id": "D:\\MyProjects\\nepcoder\\Project\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "/Users/bimalabhattarai/Desktop/dotnet Project/Bulky/BulkyWeb/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
+      "Id": "D:\\MyProjects\\nepcoder\\Project\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "/Users/bimalabhattarai/Desktop/dotnet Project/Bulky/BulkyWeb/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js"
+      "Id": "D:\\MyProjects\\nepcoder\\Project\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "/Users/bimalabhattarai/Desktop/dotnet Project/Bulky/BulkyWeb/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js.map"
+      "Id": "D:\\MyProjects\\nepcoder\\Project\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "/Users/bimalabhattarai/Desktop/dotnet Project/Bulky/BulkyWeb/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js"
+      "Id": "D:\\MyProjects\\nepcoder\\Project\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "/Users/bimalabhattarai/Desktop/dotnet Project/Bulky/BulkyWeb/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
+      "Id": "D:\\MyProjects\\nepcoder\\Project\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "/Users/bimalabhattarai/Desktop/dotnet Project/Bulky/BulkyWeb/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js"
+      "Id": "D:\\MyProjects\\nepcoder\\Project\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "/Users/bimalabhattarai/Desktop/dotnet Project/Bulky/BulkyWeb/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js.map"
+      "Id": "D:\\MyProjects\\nepcoder\\Project\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "/Users/bimalabhattarai/Desktop/dotnet Project/Bulky/BulkyWeb/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js"
+      "Id": "D:\\MyProjects\\nepcoder\\Project\\BulkyWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "/Users/bimalabhattarai/Desktop/dotnet Project/Bulky/BulkyWeb/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
-      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js.map"
+      "Id": "D:\\MyProjects\\nepcoder\\Project\\BulkyWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "/Users/bimalabhattarai/Desktop/dotnet Project/Bulky/BulkyWeb/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
-      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/LICENSE.txt"
+      "Id": "D:\\MyProjects\\nepcoder\\Project\\BulkyWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "/Users/bimalabhattarai/Desktop/dotnet Project/Bulky/BulkyWeb/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
-      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
+      "Id": "D:\\MyProjects\\nepcoder\\Project\\BulkyWeb\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "/Users/bimalabhattarai/Desktop/dotnet Project/Bulky/BulkyWeb/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
-      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
+      "Id": "D:\\MyProjects\\nepcoder\\Project\\BulkyWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "/Users/bimalabhattarai/Desktop/dotnet Project/Bulky/BulkyWeb/wwwroot/lib/jquery-validation/LICENSE.md",
-      "PackagePath": "staticwebassets/lib/jquery-validation/LICENSE.md"
+      "Id": "D:\\MyProjects\\nepcoder\\Project\\BulkyWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "/Users/bimalabhattarai/Desktop/dotnet Project/Bulky/BulkyWeb/wwwroot/lib/jquery-validation/dist/additional-methods.js",
-      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.js"
+      "Id": "D:\\MyProjects\\nepcoder\\Project\\BulkyWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "/Users/bimalabhattarai/Desktop/dotnet Project/Bulky/BulkyWeb/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
-      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.min.js"
+      "Id": "D:\\MyProjects\\nepcoder\\Project\\BulkyWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "/Users/bimalabhattarai/Desktop/dotnet Project/Bulky/BulkyWeb/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
-      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.js"
+      "Id": "D:\\MyProjects\\nepcoder\\Project\\BulkyWeb\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "/Users/bimalabhattarai/Desktop/dotnet Project/Bulky/BulkyWeb/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
-      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.min.js"
+      "Id": "D:\\MyProjects\\nepcoder\\Project\\BulkyWeb\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "/Users/bimalabhattarai/Desktop/dotnet Project/Bulky/BulkyWeb/wwwroot/lib/jquery/.DS_Store",
-      "PackagePath": "staticwebassets/lib/jquery/.DS_Store"
+      "Id": "D:\\MyProjects\\nepcoder\\Project\\BulkyWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "/Users/bimalabhattarai/Desktop/dotnet Project/Bulky/BulkyWeb/wwwroot/lib/jquery/LICENSE.txt",
-      "PackagePath": "staticwebassets/lib/jquery/LICENSE.txt"
+      "Id": "D:\\MyProjects\\nepcoder\\Project\\BulkyWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Id": "/Users/bimalabhattarai/Desktop/dotnet Project/Bulky/BulkyWeb/wwwroot/lib/jquery/dist/jquery.js",
-      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.js"
-    },
-    {
-      "Id": "/Users/bimalabhattarai/Desktop/dotnet Project/Bulky/BulkyWeb/wwwroot/lib/jquery/dist/jquery.min.js",
-      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.js"
-    },
-    {
-      "Id": "/Users/bimalabhattarai/Desktop/dotnet Project/Bulky/BulkyWeb/wwwroot/lib/jquery/dist/jquery.min.map",
-      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
-    },
-    {
-      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.BulkyWeb.Microsoft.AspNetCore.StaticWebAssets.props",
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.BulkyWeb.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },
     {
-      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.build.BulkyWeb.props",
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.BulkyWeb.props",
       "PackagePath": "build\\BulkyWeb.props"
     },
     {
-      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.BulkyWeb.props",
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.BulkyWeb.props",
       "PackagePath": "buildMultiTargeting\\BulkyWeb.props"
     },
     {
-      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.BulkyWeb.props",
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.BulkyWeb.props",
       "PackagePath": "buildTransitive\\BulkyWeb.props"
     }
   ],

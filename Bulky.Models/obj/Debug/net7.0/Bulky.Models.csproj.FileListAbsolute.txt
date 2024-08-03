@@ -13,3 +13,18 @@
 /Users/bimalabhattarai/Desktop/dotnet Project/Bulky/Bulky.Models/bin/Debug/net7.0/Bulky.Models.runtimeconfig.json
 /Users/bimalabhattarai/Desktop/dotnet Project/Bulky/Bulky.Models/obj/Debug/net7.0/Bulky.Models.genruntimeconfig.cache
 /Users/bimalabhattarai/Desktop/dotnet Project/Bulky/Bulky.Models/obj/Debug/net7.0/Bulky.Models.sourcelink.json
+D:\MyProjects\nepcoder\Project\Bulky.Models\bin\Debug\net7.0\Bulky.Models.deps.json
+D:\MyProjects\nepcoder\Project\Bulky.Models\bin\Debug\net7.0\Bulky.Models.runtimeconfig.json
+D:\MyProjects\nepcoder\Project\Bulky.Models\bin\Debug\net7.0\Bulky.Models.dll
+D:\MyProjects\nepcoder\Project\Bulky.Models\bin\Debug\net7.0\Bulky.Models.pdb
+D:\MyProjects\nepcoder\Project\Bulky.Models\obj\Debug\net7.0\Bulky.Models.csproj.AssemblyReference.cache
+D:\MyProjects\nepcoder\Project\Bulky.Models\obj\Debug\net7.0\Bulky.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyProjects\nepcoder\Project\Bulky.Models\obj\Debug\net7.0\Bulky.Models.AssemblyInfoInputs.cache
+D:\MyProjects\nepcoder\Project\Bulky.Models\obj\Debug\net7.0\Bulky.Models.AssemblyInfo.cs
+D:\MyProjects\nepcoder\Project\Bulky.Models\obj\Debug\net7.0\Bulky.Models.csproj.CoreCompileInputs.cache
+D:\MyProjects\nepcoder\Project\Bulky.Models\obj\Debug\net7.0\Bulky.Models.sourcelink.json
+D:\MyProjects\nepcoder\Project\Bulky.Models\obj\Debug\net7.0\Bulky.Models.dll
+D:\MyProjects\nepcoder\Project\Bulky.Models\obj\Debug\net7.0\refint\Bulky.Models.dll
+D:\MyProjects\nepcoder\Project\Bulky.Models\obj\Debug\net7.0\Bulky.Models.pdb
+D:\MyProjects\nepcoder\Project\Bulky.Models\obj\Debug\net7.0\Bulky.Models.genruntimeconfig.cache
+D:\MyProjects\nepcoder\Project\Bulky.Models\obj\Debug\net7.0\ref\Bulky.Models.dll

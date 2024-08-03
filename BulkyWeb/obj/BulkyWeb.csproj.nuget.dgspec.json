@@ -1,33 +1,36 @@
 {
   "format": 1,
   "restore": {
-    "/Users/bimalabhattarai/Desktop/dotnet Project/Bulky/BulkyWeb/BulkyWeb.csproj": {}
+    "D:\\MyProjects\\nepcoder\\Project\\BulkyWeb\\BulkyWeb.csproj": {}
   },
   "projects": {
-    "/Users/bimalabhattarai/Desktop/dotnet Project/Bulky/Bulky.DataAccess/Bulky.DataAccess.csproj": {
+    "D:\\MyProjects\\nepcoder\\Project\\Bulky.DataAccess\\Bulky.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/bimalabhattarai/Desktop/dotnet Project/Bulky/Bulky.DataAccess/Bulky.DataAccess.csproj",
+        "projectUniqueName": "D:\\MyProjects\\nepcoder\\Project\\Bulky.DataAccess\\Bulky.DataAccess.csproj",
         "projectName": "Bulky.DataAccess",
-        "projectPath": "/Users/bimalabhattarai/Desktop/dotnet Project/Bulky/Bulky.DataAccess/Bulky.DataAccess.csproj",
-        "packagesPath": "/Users/bimalabhattarai/.nuget/packages/",
-        "outputPath": "/Users/bimalabhattarai/Desktop/dotnet Project/Bulky/Bulky.DataAccess/obj/",
+        "projectPath": "D:\\MyProjects\\nepcoder\\Project\\Bulky.DataAccess\\Bulky.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
+        "outputPath": "D:\\MyProjects\\nepcoder\\Project\\Bulky.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/bimalabhattarai/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\ACER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "/Users/bimalabhattarai/Desktop/dotnet Project/Bulky/Bulky.Models/Bulky.Models.csproj": {
-                "projectPath": "/Users/bimalabhattarai/Desktop/dotnet Project/Bulky/Bulky.Models/Bulky.Models.csproj"
+              "D:\\MyProjects\\nepcoder\\Project\\Bulky.Models\\Bulky.Models.csproj": {
+                "projectPath": "D:\\MyProjects\\nepcoder\\Project\\Bulky.Models\\Bulky.Models.csproj"
               }
             }
           }
@@ -86,26 +89,29 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.302/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/bimalabhattarai/Desktop/dotnet Project/Bulky/Bulky.Models/Bulky.Models.csproj": {
+    "D:\\MyProjects\\nepcoder\\Project\\Bulky.Models\\Bulky.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/bimalabhattarai/Desktop/dotnet Project/Bulky/Bulky.Models/Bulky.Models.csproj",
+        "projectUniqueName": "D:\\MyProjects\\nepcoder\\Project\\Bulky.Models\\Bulky.Models.csproj",
         "projectName": "Bulky.Models",
-        "projectPath": "/Users/bimalabhattarai/Desktop/dotnet Project/Bulky/Bulky.Models/Bulky.Models.csproj",
-        "packagesPath": "/Users/bimalabhattarai/.nuget/packages/",
-        "outputPath": "/Users/bimalabhattarai/Desktop/dotnet Project/Bulky/Bulky.Models/obj/",
+        "projectPath": "D:\\MyProjects\\nepcoder\\Project\\Bulky.Models\\Bulky.Models.csproj",
+        "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
+        "outputPath": "D:\\MyProjects\\nepcoder\\Project\\Bulky.Models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/bimalabhattarai/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\ACER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -164,37 +170,40 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.302/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/bimalabhattarai/Desktop/dotnet Project/Bulky/BulkyWeb/BulkyWeb.csproj": {
+    "D:\\MyProjects\\nepcoder\\Project\\BulkyWeb\\BulkyWeb.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/bimalabhattarai/Desktop/dotnet Project/Bulky/BulkyWeb/BulkyWeb.csproj",
+        "projectUniqueName": "D:\\MyProjects\\nepcoder\\Project\\BulkyWeb\\BulkyWeb.csproj",
         "projectName": "BulkyWeb",
-        "projectPath": "/Users/bimalabhattarai/Desktop/dotnet Project/Bulky/BulkyWeb/BulkyWeb.csproj",
-        "packagesPath": "/Users/bimalabhattarai/.nuget/packages/",
-        "outputPath": "/Users/bimalabhattarai/Desktop/dotnet Project/Bulky/BulkyWeb/obj/",
+        "projectPath": "D:\\MyProjects\\nepcoder\\Project\\BulkyWeb\\BulkyWeb.csproj",
+        "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
+        "outputPath": "D:\\MyProjects\\nepcoder\\Project\\BulkyWeb\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/bimalabhattarai/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\ACER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "/Users/bimalabhattarai/Desktop/dotnet Project/Bulky/Bulky.DataAccess/Bulky.DataAccess.csproj": {
-                "projectPath": "/Users/bimalabhattarai/Desktop/dotnet Project/Bulky/Bulky.DataAccess/Bulky.DataAccess.csproj"
+              "D:\\MyProjects\\nepcoder\\Project\\Bulky.DataAccess\\Bulky.DataAccess.csproj": {
+                "projectPath": "D:\\MyProjects\\nepcoder\\Project\\Bulky.DataAccess\\Bulky.DataAccess.csproj"
               },
-              "/Users/bimalabhattarai/Desktop/dotnet Project/Bulky/Bulky.Models/Bulky.Models.csproj": {
-                "projectPath": "/Users/bimalabhattarai/Desktop/dotnet Project/Bulky/Bulky.Models/Bulky.Models.csproj"
+              "D:\\MyProjects\\nepcoder\\Project\\Bulky.Models\\Bulky.Models.csproj": {
+                "projectPath": "D:\\MyProjects\\nepcoder\\Project\\Bulky.Models\\Bulky.Models.csproj"
               }
             }
           }
@@ -266,7 +275,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.302/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\RuntimeIdentifierGraph.json"
         }
       }
     }

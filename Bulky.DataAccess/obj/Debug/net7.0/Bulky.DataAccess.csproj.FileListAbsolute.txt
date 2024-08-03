@@ -16,3 +16,21 @@
 /Users/bimalabhattarai/Desktop/dotnet Project/Bulky/Bulky.DataAccess/obj/Debug/net7.0/ref/Bulky.DataAccess.dll
 /Users/bimalabhattarai/Desktop/dotnet Project/Bulky/Bulky.DataAccess/obj/Debug/net7.0/Bulky.DataAccess.sourcelink.json
 /Users/bimalabhattarai/Desktop/dotnet Project/Bulky/Bulky.DataAccess/obj/Debug/net7.0/Bulky.Da.6DBD1FC4.Up2Date
+D:\MyProjects\nepcoder\Project\Bulky.DataAccess\bin\Debug\net7.0\Bulky.DataAccess.deps.json
+D:\MyProjects\nepcoder\Project\Bulky.DataAccess\bin\Debug\net7.0\Bulky.DataAccess.runtimeconfig.json
+D:\MyProjects\nepcoder\Project\Bulky.DataAccess\bin\Debug\net7.0\Bulky.DataAccess.dll
+D:\MyProjects\nepcoder\Project\Bulky.DataAccess\bin\Debug\net7.0\Bulky.DataAccess.pdb
+D:\MyProjects\nepcoder\Project\Bulky.DataAccess\bin\Debug\net7.0\Bulky.Models.dll
+D:\MyProjects\nepcoder\Project\Bulky.DataAccess\bin\Debug\net7.0\Bulky.Models.pdb
+D:\MyProjects\nepcoder\Project\Bulky.DataAccess\obj\Debug\net7.0\Bulky.DataAccess.csproj.AssemblyReference.cache
+D:\MyProjects\nepcoder\Project\Bulky.DataAccess\obj\Debug\net7.0\Bulky.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyProjects\nepcoder\Project\Bulky.DataAccess\obj\Debug\net7.0\Bulky.DataAccess.AssemblyInfoInputs.cache
+D:\MyProjects\nepcoder\Project\Bulky.DataAccess\obj\Debug\net7.0\Bulky.DataAccess.AssemblyInfo.cs
+D:\MyProjects\nepcoder\Project\Bulky.DataAccess\obj\Debug\net7.0\Bulky.DataAccess.csproj.CoreCompileInputs.cache
+D:\MyProjects\nepcoder\Project\Bulky.DataAccess\obj\Debug\net7.0\Bulky.DataAccess.sourcelink.json
+D:\MyProjects\nepcoder\Project\Bulky.DataAccess\obj\Debug\net7.0\Bulky.Da.6DBD1FC4.Up2Date
+D:\MyProjects\nepcoder\Project\Bulky.DataAccess\obj\Debug\net7.0\Bulky.DataAccess.dll
+D:\MyProjects\nepcoder\Project\Bulky.DataAccess\obj\Debug\net7.0\refint\Bulky.DataAccess.dll
+D:\MyProjects\nepcoder\Project\Bulky.DataAccess\obj\Debug\net7.0\Bulky.DataAccess.pdb
+D:\MyProjects\nepcoder\Project\Bulky.DataAccess\obj\Debug\net7.0\Bulky.DataAccess.genruntimeconfig.cache
+D:\MyProjects\nepcoder\Project\Bulky.DataAccess\obj\Debug\net7.0\ref\Bulky.DataAccess.dll
